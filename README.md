@@ -1,6 +1,4 @@
-# 👋 Hello there!
-
-I'm **Igor Sitko-Bajorski** — a second-year Computer Science student at **Gdańsk University of Technology** (Faculty of Electronics, Telecommunications and Informatics - ETI).
+**Igor Sitko-Bajorski** — I am a second-year Computer Science student at **Gdańsk University of Technology** (Faculty of Electronics, Telecommunications and Informatics - ETI).
 
 ---
 
