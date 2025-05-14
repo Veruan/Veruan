@@ -2,15 +2,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I'm passionate about low-level programming and networking. Combining these two provides interesting challenges.
 
 ---
 
-## 🌱 What I'm Learning:
-- 🧠 **Assembly Language** – understanding systems from the ground up
-- 💻 **C / C++** – for high-performance and systems programming
-- 🌐 **Computer Networking** – protocols, architecture, and security
+## What I'm Learning:
+- **Assembly Language** – understanding systems from the ground up
+- **C / C++** – for high-performance and systems programming
+- **Computer Networking** – protocols, architecture, and security
 
 ---
 
