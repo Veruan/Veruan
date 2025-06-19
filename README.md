@@ -3,14 +3,14 @@
 ---
 
 ## About Me
-I'm passionate about low-level programming and networking. Combining these two provides interesting challenges.
+I'm passionate about low-level programming, computer networks, video games, and security.
 
 ---
 
 ## What I'm Learning:
-- **Assembly Language** – understanding systems from the ground up
-- **C / C++** – for high-performance and systems programming
-- **Computer Networking** – protocols, architecture, and security
+- **C / C++** – for high-performance and system programming
+- **Computer Networks** – protocols, architecture, and security
+- **Godot & AI** - for passion projects
 
 ---
 
